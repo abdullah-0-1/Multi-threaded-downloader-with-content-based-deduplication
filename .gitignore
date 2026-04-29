@@ -1,0 +1,10 @@
+# Ignore downloaded files
+downloads/*
+!downloads/.gitkeep
+
+# Ignore compiled binaries
+idm
+*.o
+
+# Ignore VS Code specific files (if any)
+.vscode/
